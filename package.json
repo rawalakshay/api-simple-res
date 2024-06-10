@@ -1,0 +1,14 @@
+{
+  "name": "api-simple-res",
+  "version": "1.0.0",
+  "description": "this is a simple package to send simple api response in same syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api-simple-res"
+  ],
+  "author": "Akshay Rawal",
+  "license": "ISC"
+}
